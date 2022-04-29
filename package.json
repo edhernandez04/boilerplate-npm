@@ -2,9 +2,9 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Ed Cache",
 	"keywords": [
-		"descriptive",
-		"related",
-		"words"
+		"freecodecamp",
+		"Backend",
+		"Server"
 	],
 	"dependencies": {
 		"express": "^4.14.0"
