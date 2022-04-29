@@ -6,6 +6,8 @@
 		"Backend",
 		"Server"
 	],
+	"license": "Big Git Energy",
+  "version": "1.2.0",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
